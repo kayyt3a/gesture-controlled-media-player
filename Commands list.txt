@@ -1,0 +1,3 @@
+cd Desktop
+cd "BACS_AI_UWA_2026\Programming Journey\Projects"
+py gesture_player.py
