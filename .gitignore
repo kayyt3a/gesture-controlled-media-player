@@ -1,20 +1,6 @@
-# Downloaded MediaPipe model (fetched automatically on first run)
-hand_landmarker.task
-
-# Python
+﻿build/
+dist/
+*.spec
 __pycache__/
-*.py[cod]
-
-# Virtual environments
-venv/
-.venv/
-env/
-
-# IDE / editor
-.vscode/
-.idea/
-
-# OS files
-.DS_Store
-Thumbs.db
-desktop.ini
+hand_landmarker.task
+*.exe
